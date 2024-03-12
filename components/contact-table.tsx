@@ -19,7 +19,7 @@ const ContactTable = async ({
           <th className="py-3 px-6">User Id</th>
           <th className="py-3 px-6">Key Id</th>
           <th className="py-3 px-6">Expired</th>
-          <th className="py-3 px-6">Created At</th>
+          <th className="py-3 px-6">Created</th>
           <th className="py-3 px-6 text-center">Actions</th>
         </tr>
       </thead>
